@@ -1,3 +1,4 @@
+/* =======================================
 function initPlyrPositionSaver(player, videoId) {
     const STORAGE_KEY_PREFIX = 'plyr-video-position-';
     const END_THRESHOLD = 3;
