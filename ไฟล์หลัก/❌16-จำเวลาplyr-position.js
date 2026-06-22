@@ -90,4 +90,4 @@ function initPlyrPositionSaver(player, videoId) {
     }, SAVE_INTERVAL_MS);
 }
 
-============================================== *
+
